@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ProductExporter/ProductExporter.csproj" Id="d55d14e8-a1ce-424e-a035-a73eda308bfa" />
+  <Project Path="DBConfig/DBConfig.csproj" Id="931e11b7-42ff-4fff-a737-9186289f7e16" />
+  <Project Path="ProductExporter.ProductReader/ProductExporter.ProductReader.csproj" Id="782d71ca-3042-4c0b-8a1c-797434376eab" />
+  <Project Path="ProductExporter.ProductWriter/ProductExporter.ProductWriter.csproj" Id="a6adfb0c-ee6a-4131-a66e-4df336332195" />
+  <Project Path="ProductExporter.Shared/ProductExporter.Shared.csproj" Id="320cc05c-aea3-4447-a58d-ee3983167f05" />
+</Solution>
